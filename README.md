@@ -12,5 +12,8 @@ Customer has a legacy app built in 1998 and it’s time to re-write this applica
 5. CSS
 
 
-## Notes
+### Notes
+
+The source code which wins in topcoder competitions is not allowed on github.
+
 All codes were transfered to the client at the end of the challenge.
